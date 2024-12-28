@@ -20,13 +20,9 @@ Este repositório é para um desafio de Phishing utilizando o Kali Linux para a 
 
 4. Escolhendo o Método: **Credential Harvester Attack Method** e selecione a opção para clonar um site.
    
-5. Clonando o Site: Durante o desafio, utilizamos o **Facebook** como exemplo de site a ser clonado. Colocar a URL do site a ser clonado quando solicitado. (http://www.facebook.com)
+5. Nisso irá solicitar um IP para ser o servidor "local", podemos dar só enter que irá ser realizado na nossa máquina
    
-6. Obtendo o Endereço IP: Para capturar o endereço IP da máquina (necessário para configurar o phishing), use o comando:
-   ```bash
-   ifconfig
-   ```
-   Copie o endereço IP e insira-o no navegador para acessar a página clone.
+6. Clonando o Site: Durante o desafio, utilizamos o **Facebook** como exemplo de site a ser clonado. Colocar a URL do site a ser clonado quando solicitado. (http://www.facebook.com)
    
 7. E nisso informe as credencias no formulário que está sendo solicitado ao fazer sua requisição, será retornado no terminal
    ![Imagem de exemplo](Screenshot_9.png)
